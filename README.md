@@ -127,7 +127,7 @@ Execute the program
 </html>
 ```
 
-# OUPUT
+# OUTPUT
 ![OUTPUT](http://praisey.student.saveetha.in:8000/static/images/out.png?raw=true)
 
 # HTML VALIDATOR
